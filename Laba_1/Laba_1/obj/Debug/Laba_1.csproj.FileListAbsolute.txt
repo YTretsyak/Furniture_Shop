@@ -1,0 +1,10 @@
+D:\BSTU\OOP\Laba_1\Laba_1\bin\Debug\Laba_1.exe.config
+D:\BSTU\OOP\Laba_1\Laba_1\bin\Debug\Laba_1.exe
+D:\BSTU\OOP\Laba_1\Laba_1\bin\Debug\Laba_1.pdb
+D:\BSTU\OOP\Laba_1\Laba_1\obj\Debug\Laba_1.csprojAssemblyReference.cache
+D:\BSTU\OOP\Laba_1\Laba_1\obj\Debug\Laba_1.Form1.resources
+D:\BSTU\OOP\Laba_1\Laba_1\obj\Debug\Laba_1.Properties.Resources.resources
+D:\BSTU\OOP\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.GenerateResource.cache
+D:\BSTU\OOP\Laba_1\Laba_1\obj\Debug\Laba_1.csproj.CoreCompileInputs.cache
+D:\BSTU\OOP\Laba_1\Laba_1\obj\Debug\Laba_1.exe
+D:\BSTU\OOP\Laba_1\Laba_1\obj\Debug\Laba_1.pdb

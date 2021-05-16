@@ -1,0 +1,44 @@
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\2 курс\4 семестр\ООП\Лабы\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\BSTU\OOP\test\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

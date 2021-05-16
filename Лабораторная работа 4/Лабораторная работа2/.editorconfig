@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0005: Директива using не нужна.
+dotnet_diagnostic.IDE0005.severity = none
+
+# CS0659: Тип переопределяет Object.Equals(object o), но не переопределяет Object.GetHashCode()
+dotnet_diagnostic.CS0659.severity = none
