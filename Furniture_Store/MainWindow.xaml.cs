@@ -24,12 +24,12 @@ namespace Furniture_Store
         public MainWindow()
         {
             InitializeComponent();
-            UserControlSingleton instance = UserControlSingleton.GetInstance();
-            var element = (RadioButton)this.FindName("OrdersButton");
-            if (instance.IsLogged == true)
-            {
-                element.IsEnabled = true;
-            }
+            //UserControlSingleton instance = UserControlSingleton.GetInstance();
+            //var element = (RadioButton)this.FindName("OrdersButton");
+            //if (instance.IsLogged == true)
+            //{
+            //    element.IsEnabled = true;
+            //}
         }
     }
 }

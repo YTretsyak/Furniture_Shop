@@ -11,6 +11,8 @@ namespace Furniture_Store.Classes
         private static UserControlSingleton instance;
         public bool IsLogged;
         public int UserID;
+        public string Name;
+        public string Role;
         private UserControlSingleton()
         {
         

@@ -36,12 +36,13 @@
                    FontSize="30"/>
 
             <StackPanel Grid.Row="1">
-                <RadioButton Content="Home"
+                <RadioButton x:Name="HomeButton"
+                             Content="Home"
                              Height="50"
                              Foreground="Black"
                              FontSize="14"
                              Style="{StaticResource MenuButtonTheme}"
-                             IsChecked="True"
+                             IsEnabled="False"
                              Command="{Binding HomeViewCommand}"/>
            
                 <RadioButton x:Name="OrdersButton"
@@ -52,11 +53,13 @@
                              IsEnabled="False"
                              Style="{StaticResource MenuButtonTheme}"
                              Command="{Binding OrdersViewCommand}"/>
-                
-                <RadioButton Content="Basket"
+
+                <RadioButton x:Name="BasketButton"
+                             Content="Basket"
                              Height="50"
                              Foreground="Black"
                              FontSize="14"
+                             IsEnabled="False"
                              Style="{StaticResource MenuButtonTheme}"
                              Command="{Binding BasketViewCommand}"/>
 
@@ -64,6 +67,7 @@
                              Height="50"
                              Foreground="Black"
                              FontSize="14"
+                             IsChecked="True"
                              Style="{StaticResource MenuButtonTheme}"
                              Command="{Binding UserViewCommand}"/>
             </StackPanel>
@@ -82,8 +86,5 @@
                             Content="{Binding CurrentView}"/>
 
         </Grid>
-
-        
-
     </Border>
 </Window>

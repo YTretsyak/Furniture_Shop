@@ -37,7 +37,7 @@ namespace Furniture_Store.MVVM.ViewModel
             OrdersVM = new OrdersViewModel();
             BasketVM = new BasketViewModel();
             UserVM = new UserViewModel();
-            CurrentView = HomeVM;
+            CurrentView = UserVM;
 
             HomeViewCommand = new RelayCommand(o => 
             {

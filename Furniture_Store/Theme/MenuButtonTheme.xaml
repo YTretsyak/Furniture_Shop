@@ -31,8 +31,11 @@
             <Trigger Property="IsChecked" Value="True">
                 <Setter Property="Background" Value="#FF77F059"/>
             </Trigger>
+            <Trigger Property="IsEnabled" Value="False">
+                <Setter Property="Background" Value="DarkGray" />
+            </Trigger>
         </Style.Triggers>
-        
+
     </Style>
     
 </ResourceDictionary>
